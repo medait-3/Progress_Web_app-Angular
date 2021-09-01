@@ -1,0 +1,21 @@
+cd project 
+//add firsebase :  npm install -g firebase-tools
+firebase login --reauth
+firebase init
+
+
+//add pwd : ng add @angular/pwa
+
+
+//back video : pixbay
+//favicon browser : https://realfavicongenerator.net/
+//editimage : https://www.photopea.com/
+//compress image : https://tinypng.com/
+//free mockup : https://www.mockupworld.co/all-mockups/  or https://freebiesbug.com/
+
+ng build --prod 
+firebase deploy
+url to meta tag og:url
+ng build --prod 
+firebase deploy
+
